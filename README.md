@@ -1,7 +1,9 @@
 # Dmitry Russu
 
 Java / Spring Boot developer.
+
 Focused on DDD, Hexagonal Architecture and Modular Monolith.
+
 Clean code, no frameworks in domain layer.
 
 ---
