@@ -103,4 +103,4 @@ JTE (Server-Side Rendering)
 
 🔗 LinkedIn: https://www.linkedin.com/in/dmitrii-russu-5b77b3329/  
 🧠 Codewars (5 kyu): https://www.codewars.com/users/Dmitrii-Russu  
-🏅 HackerRank (certifications & problem solving): https://www.hackerrank.com/profile/dmitriirussulink
+🏅 HackerRank (multiple certifications & problem solving): https://www.hackerrank.com/profile/dmitriirussulink
