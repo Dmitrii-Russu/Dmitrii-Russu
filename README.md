@@ -19,10 +19,3 @@ Clean code, no frameworks in domain layer.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-## Organizations
-
-| | |
-|---|---|
-| [architectural-styles](https://github.com/architectural-styles) | Minimal boilerplate examples of architectural patterns |
-| [architectural-showcases](https://github.com/architectural-showcases) | Showcase projects on real domains |
