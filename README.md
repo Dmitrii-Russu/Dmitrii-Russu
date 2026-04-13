@@ -1,21 +1,106 @@
 # Dmitry Russu
 
-Java / Spring Boot developer.
+Java Backend Engineer
 
-Focused on DDD, Hexagonal Architecture and Modular Monolith.
+Specialized in building modular backend systems with strong domain modeling and clean architecture principles.
 
-Clean code, no frameworks in domain layer.
+Spring Boot · Domain-Driven Design · Hexagonal Architecture · REST APIs · Server-Side Rendering (JTE)
+
+---
+
+## 🧠 Engineering Profile
+
+Backend engineer focused on designing systems with clear boundaries, explicit domain logic, and long-term maintainability.
+
+Primary interests:
+- Domain modeling and business logic isolation
+- Modular monolith architecture
+- Hexagonal / Clean Architecture principles
+- Server-side rendered backend applications
+- Evolution from monolith to distributed systems (conceptually and practically)
+
+I prioritize:
+- Explicit over implicit design
+- Domain clarity over framework convenience
+- Testable and decoupled architecture
 
 ---
 
-## Stack
+## 🏗️ Featured Systems
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🟢 PetClinic — Modular DDD System (Hexagonal Architecture)
+
+A backend system simulating real-world domain complexity using layered architecture and multiple persistence strategies.
+
+Architecture:
+- Hexagonal Architecture (Ports & Adapters)
+- Clear separation of domain, application, and infrastructure layers
+- Modular monolith design approach
+
+Domain modeling:
+- Aggregates, Entities, Value Objects
+- Domain-centric business logic
+- Explicit invariants inside the domain layer
+
+Persistence:
+- JPA for ORM-based access
+- JDBC for direct SQL control
+- jOOQ for type-safe SQL construction
+
+Interface layer:
+- Spring MVC controllers
+- Server-Side Rendering using JTE templates
+
+Testing strategy:
+- Unit tests for domain logic
+- Slice tests for repositories and services
+- Integration tests for full application context
 
 ---
+
+### 🟢 Reward Network — Domain-Driven Backend System
+
+A modular backend system focused on transactional business workflows and domain consistency.
+
+Focus areas:
+- Domain-driven service boundaries
+- Transactional consistency in business flows
+- Spring Security integration for access control
+- Clean separation between application and domain layers
+
+---
+
+## 🧰 Technology Stack
+
+**Core backend:**
+Java · Spring Boot · Spring MVC · Spring Security · Spring Data JPA · JDBC
+
+**Architecture:**
+DDD · Hexagonal Architecture · Clean Architecture · Modular Monolith
+
+**Persistence:**
+PostgreSQL · H2 · jOOQ
+
+**Tooling:**
+Docker · Maven · Git · JUnit · MockMvc
+
+**View layer:**
+JTE (Server-Side Rendering)
+
+---
+
+## 🧪 Engineering Practices
+
+- Domain-first design approach
+- Separation of business logic from framework concerns
+- Layer isolation (domain/application/infrastructure)
+- Test-driven validation of core business logic
+- Explicit dependency direction (inward dependency rule)
+
+---
+
+## 📫 Contact
+
+LinkedIn: (add link)  
+Codewars: (add link)  
+HackerRank: (add link)
