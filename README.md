@@ -26,4 +26,3 @@ Clean code, no frameworks in domain layer.
 |---|---|
 | [architectural-styles](https://github.com/architectural-styles) | Minimal boilerplate examples of architectural patterns |
 | [architectural-showcases](https://github.com/architectural-showcases) | Showcase projects on real domains |
-| [spring-modern-guides](https://github.com/spring-modern-guides) | Modern Spring Boot guides and best practices |
