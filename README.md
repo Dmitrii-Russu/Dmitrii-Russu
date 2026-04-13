@@ -105,5 +105,5 @@ JTE (Server-Side Rendering)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/dmitrii-russu-5b77b3329/)  
 🧠 [Codewars (5 kyu)](https://www.codewars.com/users/Dmitrii-Russu)  
-🏅 [HackerRank](https://www.hackerrank.com/profile/dmitriirussulink)  
+🏅 [HackerRank (multiple certifications & problem solving)](https://www.hackerrank.com/profile/dmitriirussulink)  
 🏆 [TestDome Java Assessment — Top 10% performance](https://www.testdome.com/certificates/fd2ff54c262b4e499cc31a444c966f9a)
